@@ -5,9 +5,6 @@ Complite simple blog with Django
 Admin == admin
 Pasword == wężykP
 
-I dont like a database management here. Different statments compared to what I used in plain sql query.
-For now I look a diffrent solution. More Java like (for example PreparedStatement() class)
-
 1. Download all files to one folder
 2. run virtual enviroment --> . DjangoBlogTutorial/myenv_two/VirtualBox VMs/bin/activate
 3. run django server (must be in project folder with manage.py file) --> python manage.py runserver
